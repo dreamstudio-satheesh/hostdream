@@ -1,0 +1,1 @@
+document.getElementById("live-chat").addEventListener("click",()=>{function o(e){let t=[];const c=(n=window)=>{n.document.body.querySelectorAll("iframe").forEach(r=>c(r.contentWindow)),t=t.concat(n.document.body.querySelectorAll(e))};return c(),t}o("#button-body").forEach(e=>{e.length>0&&e[0].click()})});

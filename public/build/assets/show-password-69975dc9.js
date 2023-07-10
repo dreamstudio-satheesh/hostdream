@@ -1,0 +1,1 @@
+const s=document.querySelector("#showPassword"),t=document.querySelector("#password");s.addEventListener("click",function(){const e=t.getAttribute("type")==="password"?"text":"password";t.setAttribute("type",e),this.classList.toggle("fe-eye-off")});

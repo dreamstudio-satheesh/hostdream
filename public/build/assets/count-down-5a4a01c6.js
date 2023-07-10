@@ -1,0 +1,1 @@
+let f="15 December 2025 12:01 am",e=Array.from(document.querySelectorAll(".count_down"));function D(){let n=new Date(f),o=new Date,t=(n-o)/1e3;if(t>0){let l=Math.floor(t/3600/24),a=Math.floor(t/3600)%24,r=Math.floor(t/60)%60,c=Math.floor(t%60);e[0].textContent=l,e[1].textContent=a,e[2].textContent=r,e[3].textContent=c}else clearInterval(m)}let m=setInterval(()=>{D()},1e3);

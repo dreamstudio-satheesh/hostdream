@@ -1,0 +1,1 @@
+let c=document.querySelectorAll(".counter"),o=Array.from(c);o.map(e=>{let n=e.innerHTML;e.innerHTML=0;let r=1;function t(){e.innerHTML=r++,r>n&&clearInterval(l)}let l=setInterval(()=>{t()},e.dataset.speed/n)});

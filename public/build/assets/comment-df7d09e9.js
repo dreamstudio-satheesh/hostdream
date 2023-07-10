@@ -1,0 +1,1 @@
+document.addEventListener("click",function(a){var t=a.target,e;t.matches("[data-bs-toggle='reply-form']")&&(e=document.getElementById(t.getAttribute("data-bs-target")),e.classList.toggle("d-none"))},!1);
