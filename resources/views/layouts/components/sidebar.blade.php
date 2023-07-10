@@ -378,7 +378,7 @@
                                                                         </span>
                                                                     </div>
                                                                     <div class="flex-grow-1">
-                                                                        <h6 class="d-block mb-1">Web Hosting (DirectAdmin)</h6>
+                                                                        <h6 class="d-block mb-1">Web Hosting (CPanel) </h6>
                                                                         <span class="tx-default tx-14">Perfect for smaller websites and
                                                                             blogs. Comes with cPanel, PHP, Apache and more.</span>
                                                                     </div>
@@ -401,7 +401,7 @@
                                                                         </span>
                                                                     </div>
                                                                     <div class="flex-grow-1">
-                                                                        <h6 class="d-block mb-1">Web Hosting (CPanel)</h6>
+                                                                        <h6 class="d-block mb-1">Web Hosting (Plesk)</h6>
                                                                         <span class="tx-default tx-14">Perfect for smaller websites and
                                                                             blogs. Comes with Plesk, ASP, IIS and more.</span>
                                                                     </div>
@@ -533,7 +533,7 @@
                                                                         </span>
                                                                     </div>
                                                                     <div class="flex-grow-1">
-                                                                        <h6 class="d-block mb-1">Reseller Hosting (DirectAdmin)</h6>
+                                                                        <h6 class="d-block mb-1">Reseller Hosting (CPanel)</h6>
                                                                         <span class="tx-default tx-14">Start your hosting business today.
                                                                             Comes with free WHM, cPanel and WHMCS.</span>
                                                                     </div>
@@ -557,7 +557,7 @@
                                                                     </div>
                                                                     <div class="flex-grow-1">
                                                                         <h6 class="d-block mb-1">Reseller
-                                                                            Hosting (CPanel)</h6>
+                                                                            Hosting (Plesk)</h6>
                                                                         <span class="tx-default tx-14">Start your hosting business today.
                                                                             Comes with free Plesk and WHMCS.</span>
                                                                     </div>

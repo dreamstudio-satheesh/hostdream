@@ -17,7 +17,7 @@
                             <div class="row align-items-stretch">
                                 <div class="col-lg-7">
                                     <div class="mb-4">
-                                        <p class="mb-3 content-1 h5 text-white">Linux Shared Hosting - At It's <span class="tx-info-dark">Simplest Best</span></p>
+                                        <p class="mb-3 content-1 h5 text-white">Web Hosting - CPANEL - At It's <span class="tx-info-dark">Simplest Best</span></p>
                                         <p class="mb-4 content-2 tx-18">Get Your Business Online In An Affordable Way</p>
                                         <ul class="list-unstyled mb-0">
                                             <li class="list-item mb-2"><i class="fe fe-chevron-right bg-white-2 rounded-circle p-1 me-2"></i>Power Packed With Features</li>
@@ -32,8 +32,8 @@
                                     <div class="banner-bg banner-img mt-5 mt-lg-0">
                                         <div class="price-main text-start">
                                             <p class="mb-1 op-7">Starts at</p>
-                                            <h1 class="mb-2 tx-50 text-white">$5.25 <span class="tx-14 op-7">/ month</span></h1>
-                                            <p class="tx-14 mb-0">30 Days Money Return Available</p>
+                                            <h1 class="mb-2 tx-50 text-white">₹ 129 <span class="tx-14 op-7">/ month</span></h1>
+                                            <p class="tx-14 mb-0">15 Days Money Return Available</p>
                                         </div>
                                     </div>
                                 </div>
@@ -62,7 +62,7 @@
                                             </span>
                                         </div>
                                         <h4 class="mb-3">Control Panel</h4>
-                                        <p class="mb-0">cPanel, an intuitive and powerful control panel, is available on all plans which makes your hosting package management a breeze!</p>
+                                        <p class="mb-0">Cpanel is a most trusted intuitive control panel available on all plans that helps clients to  simplify website and server management!</p>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@
                                             </span>
                                         </div>
                                         <h4 class="mb-3">Email Included</h4>
-                                        <p class="mb-0">Advanced email management features in cPanel allow you manage your emails, mailing lists and more without any hassles.</p>
+                                        <p class="mb-0">Cpanel email management has advanced features that allow webmail access, mail aliases, mailing lists and more without any hassles.</p>
                                     </div>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@
                                             </span>
                                         </div>
                                         <h4 class="mb-3">Free SSL Certificate</h4>
-                                        <p class="mb-0">Eirmod labore dolor takimata dolores takimata, est elitr gubergren et clita stet no dolores eos duo. Diam gubergren rebum consetetur.</p>
+                                        <p class="mb-0">Boost your website's credibility with our free SSL by offering secure connections.SEO rankings are favorable for sites with an SSL Certificate.</p>
                                     </div>
                                 </div>
                             </div>
@@ -197,8 +197,8 @@
                                         <div class="mb-3">
                                             <svg class="feature-icon secondary" xmlns="http://www.w3.org/2000/svg" height="70" width="70" viewBox="0 0 24 24"><path fill="#fcbf8e" d="M10.47217,20a8.46717,8.46717,0,0,1-5.99072-2.48047h0A8.47313,8.47313,0,0,1,2.14893,9.94531a.99874.99874,0,0,1,.79638-.79687,8.47246,8.47246,0,0,1,9.90674,9.90625.99874.99874,0,0,1-.79639.79687A8.52785,8.52785,0,0,1,10.47217,20Z"/><path fill="#fcbf8e" d="M13.52783,20a8.52785,8.52785,0,0,1-1.58349-.14844.99874.99874,0,0,1-.79639-.79687,8.47246,8.47246,0,0,1,9.90674-9.90625.99874.99874,0,0,1,.79638.79687,8.47313,8.47313,0,0,1-2.33252,7.57422h0A8.47125,8.47125,0,0,1,13.52783,20Zm5.28369-3.1875h0Z"/><path fill="#fb9543" d="M12,20a.99654.99654,0,0,1-.56348-.17383,9.46579,9.46579,0,0,1,0-15.65234.99789.99789,0,0,1,1.127,0,9.46579,9.46579,0,0,1,0,15.65234A.99654.99654,0,0,1,12,20Z"/></svg>
                                         </div>
-                                        <h4 class="mb-3">Easy To Use</h4>
-                                        <p class="mb-0">Est et diam rebum accusam labore, sanctus et diam clita accusam magna, sea nonumy rebum gubergren sed sit magna, takimata.</p>
+                                        <h4 class="mb-3">High Performance</h4>
+                                        <p class="mb-0">We operate one of the most advanced 100 Gbit networks in the world, complete with Anycast support and extensive DDoS protection.</p>
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +209,7 @@
                                             <svg class="feature-icon primary" xmlns="http://www.w3.org/2000/svg" height="70" width="70" enable-background="new 0 0 24 24" viewBox="0 0 24 24"><path fill="#a1bbf5" d="M14,16h-4c-0.55214,0.00014-0.99986-0.44734-1-0.99948C9,15.00035,9,15.00017,9,15v-2c0-1.65685,1.34315-3,3-3s3,1.34315,3,3v2c0.00014,0.55214-0.44734,0.99986-0.99948,1C14.00035,16,14.00017,16,14,16z M11,14h2v-1c0-0.55229-0.44771-1-1-1s-1,0.44771-1,1V14z"/><path fill="#729af0" d="M12,12c-0.55231,0-1,0.44769-1,1v1h2v-1C13,12.44769,12.55231,12,12,12z"/><path fill="#729af0" d="M18.42926,7.23242c-1.52637-3.54962-5.64124-5.18976-9.1908-3.66339c-2.2785,0.9798-3.86798,3.09271-4.17767,5.55353c-2.14478,0.51538-3.46564,2.67188-2.95026,4.81665C2.54248,15.73663,4.15143,17.00275,6,17h11c2.75391,0.00757,4.99249-2.21881,5-4.97272C22.0061,9.8136,20.55188,7.8609,18.42926,7.23242z M15,15c0.00012,0.55212-0.44733,0.99988-0.99945,1C14.00037,16,14.00018,16,14,16h-4c-0.55212,0.00012-0.99988-0.44733-1-0.99945C9,15.00037,9,15.00018,9,15v-2c0-1.65686,1.34314-3,3-3s3,1.34314,3,3V15z"/><path fill="var(--primary-color)" d="M14,22h-4c-1.65685,0-3-1.34315-3-3v-2c0-1.65685,1.34315-3,3-3h4c1.65685,0,3,1.34315,3,3v2C17,20.65685,15.65685,22,14,22z"/></svg>
                                         </div>
                                         <h4 class="mb-3">Highly Secured</h4>
-                                        <p class="mb-0">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil.</p>
+                                        <p class="mb-0">All datacenters are Tier 4 certified and provide advanced fire and intrusion protection combined with enterprise networking hardware.</p>
                                     </div>
                                 </div>
                             </div>
@@ -220,7 +220,7 @@
                                             <svg class="feature-icon success" xmlns="http://www.w3.org/2000/svg" height="70" width="70" enable-background="new 0 0 24 24" viewBox="0 0 24 24"><path fill="#73dfa4" d="M6 21H3a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h3a3.003 3.003 0 0 1 3 3v2a3.003 3.003 0 0 1-3 3zm15 0h-3a3.003 3.003 0 0 1-3-3v-2a3.003 3.003 0 0 1 3-3h3a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1z"/><path fill="#17ca68" d="M12 3C6.477 3 2 7.477 2 13v1a1 1 0 0 1 1-1h1a8 8 0 0 1 16 0h1a1 1 0 0 1 1 1v-1c0-5.523-4.477-10-10-10z"/></svg>
                                         </div>
                                         <h4 class="mb-3">24/7 Support</h4>
-                                        <p class="mb-0">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos.</p>
+                                        <p class="mb-0">Our In-house support experts is availabe for 24/7 in live chat  and articles guides you more.we work whenever you need..</p>
                                     </div>
                                 </div>
                             </div>
@@ -300,38 +300,50 @@
                                             <path fill="#bccef4" d="M20.23 7.24 12 12 3.77 7.24a1.98 1.98 0 0 1 .7-.71L11 2.76c.62-.35 1.38-.35 2 0l6.53 3.77c.29.173.531.418.7.71z"/><path fill="#9ab5ee" d="M12 12v9.5a2.09 2.09 0 0 1-.91-.21L4.5 17.48a2.003 2.003 0 0 1-1-1.73v-7.5a2.06 2.06 0 0 1 .27-1.01L12 12z"/>
                                             <path fill="#5885e4" d="M20.5 8.25v7.5a2.003 2.003 0 0 1-1 1.73l-6.62 3.82c-.275.13-.576.198-.88.2V12l8.23-4.76c.175.308.268.656.27 1.01z"/>
                                         </svg>
-                                        <h4 class="mb-3">Unlimited Hosting Plan</h4>
-                                        <p class="mb-4 tx-gray-600">Lorem invidunt ea clita consetetur ea rebum sit accusam ipsum,.</p>
-                                        <h2 class="mb-4">$79.9<span class="tx-14 tx-muted op-7">&nbsp; / month</span></h2>
+                                        <h4 class="mb-3">Starter</h4>
+                                        <p class="mb-4 tx-gray-600">Ideal solution for new website beginners & small business with economical,.</p>
+                                        <h2 class="mb-4">₹129<span class="tx-14 tx-muted op-7">&nbsp; / month</span></h2>
                                         <ul class="list-unstyled tx-14 fw-500 mb-4">
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1 fw-600">Single Domain</span>
+                                                    <span class="flex-grow-1 fw-600" >1 Hosted Domain</span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1 fw-600"><a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#modal-unmetered" class="plain-link">Unmetered</a> Disk Space</span>
+                                                    <span class="flex-grow-1 fw-600">5GB SSD/NVMe Disk Space </span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1 fw-600"><a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#modal-unmetered" class="plain-link">Unmetered</a> Data Transfer</span>
+                                                    <span class="flex-grow-1 fw-600"> 100 GB Premium Bandwidth </span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1 fw-600">Unlimited Email Accounts</span>
+                                                    <span class="flex-grow-1 fw-600">10 Email Accounts</span>
                                                 </div>
                                             </li>
-                                            <li class="list-item">
+                                            <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
                                                     <span class="flex-grow-1 fw-600">Free SSL Certificate <a href="javascript:void(0);" data-bs-toggle="tooltip" title="All Our Shared Hosting Servers now come with a pre-installed SSL by Let's Encrypt. This means your site will automatically be flagged as 'SECURE' and will ensure all information sent over the site is fully encrypted." class="ms-1 op-4 all-ease-03 tx-primary"><i class="bi bi-info-circle-fill tx-14"></i></a></span>
+                                                </div>
+                                            </li>
+                                            <li class="list-item mb-3">
+                                                <div class="d-flex align-items-start">
+                                                    <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
+                                                    <span class="flex-grow-1 fw-600">99.9% Uptime Guarantee</span>
+                                                </div>
+                                            </li>
+                                            <li class="list-item mb-3">
+                                                <div class="d-flex align-items-start">
+                                                    <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
+                                                    <span class="flex-grow-1 fw-600">15-Days Money Back Guarantee</span>
                                                 </div>
                                             </li>
                                         </ul>
@@ -348,38 +360,51 @@
                                             <path fill="#5885e4" d="m17.737 14.622-2.426 2.23a11.603 11.603 0 0 1-4.299 2.37l.644 3.004a1 1 0 0 0 1.469.661l3.905-2.202a3.035 3.035 0 0 0 1.375-3.304zM7.266 8.776l2.088-2.48-2.604-.628a2.777 2.777 0 0 0-3.387 1.357l-2.2 3.9a1 1 0 0 0 .661 1.469l3.073.659a12.887 12.887 0 0 1 2.369-4.277zm9.468.04a1.5 1.5 0 1 0-1.5-1.5 1.5 1.5 0 0 0 1.5 1.5z"/>
                                             <path fill="#9ab5ee" d="M22.601 2.062a1 1 0 0 0-.713-.713A11.249 11.249 0 0 0 10.47 4.972L7.266 8.776a12.936 12.936 0 0 0-2.924 6.71 1 1 0 0 0 .284.837l3.1 3.1a1 1 0 0 0 .708.293c.028 0 .057-.001.086-.004a11.847 11.847 0 0 0 6.79-2.86l3.664-3.368A11.204 11.204 0 0 0 22.6 2.062Zm-5.867 6.754a1.5 1.5 0 1 1 1.5-1.5 1.5 1.5 0 0 1-1.5 1.5Z"/>
                                         </svg>
-                                        <h4 class="mb-3">Pro</h4>
-                                        <p class="mb-4 14 tx-gray-600">Lorem invidunt ea clita consetetur ea rebum sit accusam ipsum,.</p>
-                                        <h2 class="mb-4">$125.5<span class="tx-14 tx-muted op-7">&nbsp; / month</span></h2>
+                                        <h4 class="mb-3">Business</h4>
+                                        <p class="mb-4 14 tx-gray-600">Premium plan for growing your business with enhanced resources,.</p>
+                                        <h2 class="mb-4">₹209<span class="tx-14 tx-muted op-7">&nbsp; / month</span></h2>
                                         <ul class="list-unstyled tx-14 fw-500 mb-4">
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1 fw-600">Unlimited Domains</span>
+                                                    <span class="flex-grow-1 fw-600">5 Hosted Domain</span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1 fw-600"><a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#modal-unmetered" class="plain-link">Unmetered</a> Disk Space</span>
+                                                    <span class="flex-grow-1 fw-600"> 25GB SSD/NVMe Disk Space
+                                                    </span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1 fw-600"><a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#modal-unmetered" class="plain-link">Unmetered</a> Data Transfer</span>
+                                                    <span class="flex-grow-1 fw-600"> 250 GB Premium Bandwidth</span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1 fw-600">Unlimited Email Accounts</span>
+                                                    <span class="flex-grow-1 fw-600">25 Email Accounts</span>
                                                 </div>
                                             </li>
-                                            <li class="list-item">
+                                            <li class="list-item mb-3">
                                                 <div class="d-flex align-items-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
                                                     <span class="flex-grow-1 fw-600">Free SSL Certificate <a href="javascript:void(0);" data-bs-toggle="tooltip" title="All Our Shared Hosting Servers now come with a pre-installed SSL by Let's Encrypt. This means your site will automatically be flagged as 'SECURE' and will ensure all information sent over the site is fully encrypted." class="ms-1 op-4 all-ease-03 tx-primary"><i class="bi bi-info-circle-fill tx-14"></i></a></span>
+                                                </div>
+                                            </li>
+                                            <li class="list-item mb-3">
+                                                <div class="d-flex align-items-start">
+                                                    <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
+                                                    <span class="flex-grow-1 fw-600">99.9% Uptime Guarantee</span>
+                                                </div>
+                                            </li>
+                                            <li class="list-item mb-3">
+                                                <div class="d-flex align-items-start">
+                                                    <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
+                                                    <span class="flex-grow-1 fw-600">15-Days Money Back Guarantee</span>
                                                 </div>
                                             </li>
                                         </ul>
@@ -396,38 +421,50 @@
                                             <path fill="#9ab5ee" d="M19 6H5a3 3 0 0 0-3 3v2.72L8.837 14h6.326L22 11.72V9a3 3 0 0 0-3-3z"/>
                                             <path fill="#5885e4" d="M10 6V5h4v1h2V5a2.002 2.002 0 0 0-2-2h-4a2.002 2.002 0 0 0-2 2v1h2zm-1.163 8L2 11.72V18a3.003 3.003 0 0 0 3 3h14a3.003 3.003 0 0 0 3-3v-6.28L15.163 14H8.837z"/>
                                         </svg>
-                                        <h4 class="mb-3">Business</h4>
-                                        <p class="mb-4 14 tx-gray-600">Lorem invidunt ea clita consetetur ea rebum sit accusam ipsum,.</p>
-                                        <h2 class="mb-4">$96.9<span class="tx-14 tx-muted op-7">&nbsp; / month</span></h2>
+                                        <h4 class="mb-3">Enterprise</h4>
+                                        <p class="mb-4 14 tx-gray-600">Ultimate plan offers advanced feautures with more power and enhanced features,.</p>
+                                        <h2 class="mb-4">₹289<span class="tx-14 tx-muted op-7">&nbsp; / month</span></h2>
                                         <ul class="list-unstyled tx-14 fw-500 mb-4">
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-center-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1  fw-600">3 Domains</span>
+                                                    <span class="flex-grow-1  fw-600">5 Hosted Domain</span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-center-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1  fw-600"><a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#modal-unmetered" class="plain-link">Unmetered</a> Disk Space</span>
+                                                    <span class="flex-grow-1  fw-600"> 100GB SSD/NVMe Disk Space</span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-center-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1  fw-600"><a href="javascript:void(0);" data-bs-toggle="modal" data-bs-target="#modal-unmetered" class="plain-link">Unmetered</a> Data Transfer</span>
+                                                    <span class="flex-grow-1  fw-600"> 500 GB Premium Bandwidth</span>
                                                 </div>
                                             </li>
                                             <li class="list-item mb-3">
                                                 <div class="d-flex align-items-center-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
-                                                    <span class="flex-grow-1  fw-600">Unlimited Email Accounts</span>
+                                                    <span class="flex-grow-1  fw-600">50 Email Accounts</span>
                                                 </div>
                                             </li>
-                                            <li class="list-item">
+                                            <li class="list-item mb-3">
                                                 <div class="d-flex align-items-center-start">
                                                     <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
                                                     <span class="flex-grow-1  fw-600">Free SSL Certificate <a href="javascript:void(0);" data-bs-toggle="tooltip" title="All Our Shared Hosting Servers now come with a pre-installed SSL by Let's Encrypt. This means your site will automatically be flagged as 'SECURE' and will ensure all information sent over the site is fully encrypted." class="ms-1 op-4 all-ease-03 tx-primary"><i class="bi bi-info-circle-fill tx-14"></i></a></span>
+                                                </div>
+                                            </li>
+                                            <li class="list-item mb-3">
+                                                <div class="d-flex align-items-center-start">
+                                                    <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
+                                                    <span class="flex-grow-1  fw-600">99.9% Uptime Guarantee</span>
+                                                </div>
+                                            </li>
+                                            <li class="list-item mb-3">
+                                                <div class="d-flex align-items-center-start">
+                                                    <span class="me-2 tx-primary"><i class="bi bi-check-circle"></i></span>
+                                                    <span class="flex-grow-1  fw-600">15-Days Money Back Guarantee</span>
                                                 </div>
                                             </li>
                                         </ul>
