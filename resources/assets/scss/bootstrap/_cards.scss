@@ -785,11 +785,11 @@
     transition: all 350ms ease-in;
     z-index: 1;
     text-align: start;
-    background: $custom-white url(http://127.0.0.1:8000/build/assets/images/png/74.png) 95% 95%/auto no-repeat scroll;
+    background: $custom-white url(https://dreamhost.co.in/build/assets/images/png/74.png) 95% 95%/auto no-repeat scroll;
     background-size: 20% 32%;
 
     &:hover {
-        background: #{$primary} url(http://127.0.0.1:8000/build/assets/images/png/73.png) 95% 95%/auto no-repeat scroll !important;
+        background: #{$primary} url(https://dreamhost.co.in/build/assets/images/png/73.png) 95% 95%/auto no-repeat scroll !important;
         background-size: 20% 32% !important;
         color: $white;
         transform: scale(1.03);
@@ -800,7 +800,7 @@
     }
 
     &.hover {
-        background: #{$primary} url(http://127.0.0.1:8000/build/assets/images/png/73.png) 95% 95%/auto no-repeat scroll;
+        background: #{$primary} url(https://dreamhost.co.in/build/assets/images/png/73.png) 95% 95%/auto no-repeat scroll;
         background-size: 20% 32%;
         color: $white;
         transform: scale(1.03);
@@ -834,7 +834,7 @@
     &::before {
         content: "";
         position: absolute;
-        background-image: url(http://127.0.0.1:8000/build/assets/images/backgrounds/16.jpg);
+        background-image: url(https://dreamhost.co.in/build/assets/images/backgrounds/16.jpg);
         inset-block-start: 0;
         height: 100%;
         width: 100%;

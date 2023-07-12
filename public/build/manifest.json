@@ -1,6 +1,6 @@
 {
-  "_custom-switcher-c0bb02fe.js": {
-    "file": "assets/custom-switcher-c0bb02fe.js"
+  "_custom-switcher-1fa2c93c.js": {
+    "file": "assets/custom-switcher-1fa2c93c.js"
   },
   "resources/assets/js/carousel.js": {
     "file": "assets/carousel-1cb6f748.js",
@@ -53,9 +53,9 @@
     "src": "resources/assets/js/modal.js"
   },
   "resources/assets/js/picker.js": {
-    "file": "assets/picker-b94b7360.js",
+    "file": "assets/picker-83242c86.js",
     "imports": [
-      "_custom-switcher-c0bb02fe.js"
+      "_custom-switcher-1fa2c93c.js"
     ],
     "isEntry": true,
     "src": "resources/assets/js/picker.js"
@@ -76,15 +76,15 @@
     "src": "resources/css/app.css"
   },
   "resources/js/app.js": {
-    "file": "assets/app-a49fc938.js",
+    "file": "assets/app-43721c2f.js",
     "imports": [
-      "_custom-switcher-c0bb02fe.js"
+      "_custom-switcher-1fa2c93c.js"
     ],
     "isEntry": true,
     "src": "resources/js/app.js"
   },
   "resources/sass/app.scss": {
-    "file": "assets/app-1cfb98c1.css",
+    "file": "assets/app-ea4ffe55.css",
     "isEntry": true,
     "src": "resources/sass/app.scss"
   }
