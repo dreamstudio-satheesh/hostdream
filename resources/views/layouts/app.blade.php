@@ -67,7 +67,7 @@
         <!-- END PAGE -->
 
         <!-- ACCEPT-COOKIE -->
-        @include('layouts.components.accept-cookie')
+       {{--  @include('layouts.components.accept-cookie') --}}
 
         <!-- END ACCEPT-COOKIE -->
 
