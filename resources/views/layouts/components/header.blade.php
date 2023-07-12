@@ -3,7 +3,7 @@
                     <div class="container top-menu-brand px-0">
                 
                         <ul class="nav list-unstyled align-items-center">
-                            <li><a href="tel:+91679108040" class="nav-link d-flex"><i
+                            <li><a href="tel:+916379108040" class="nav-link d-flex"><i
                                         class="bi bi-headset me-2"></i>24x7 Technical Support</a></li>
                             <li>
                                 <a href="mailto:john@gmail.com" class="nav-link"><i class="bi bi-envelope-plus me-2"></i>info@dreamhost.in</a>
