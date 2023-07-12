@@ -1,4 +1,4 @@
-
+{{-- 
         <div id="cookieNotice" class="accept-cookies">
             <div id="closeIcon">
             </div>
@@ -49,4 +49,4 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
